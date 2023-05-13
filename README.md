@@ -1,4 +1,4 @@
-# Heroic-Games
+# Heroic-Games-Launcher
 https://heroicgameslauncher.com/
 
 # relation: ARM gaming
